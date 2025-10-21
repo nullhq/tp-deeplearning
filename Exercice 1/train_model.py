@@ -1,6 +1,4 @@
-import tensorflow as tf
 from tensorflow import keras
-import numpy as np
 
 # Chargement du jeu de données MNIST
 (x_train, y_train), (x_test, y_test) = keras.datasets.mnist.load_data()
