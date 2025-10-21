@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/SURFACE/Desktop/__stuffs%20about%20school/AIA4/Semestre%201/RN%20et%20DL%202/tp-dl/Exercice%203/mlruns/0/models/m-66be7326d4c9413b93b1afdf0328a33a/artifacts
+creation_timestamp: 1761029710286
+experiment_id: '0'
+last_updated_timestamp: 1761029729551
+model_id: m-66be7326d4c9413b93b1afdf0328a33a
+model_type: null
+name: mnist-model
+source_run_id: dd9ce8eaec9243f88a665ad393435a2e
+status: 2
+status_message: null
